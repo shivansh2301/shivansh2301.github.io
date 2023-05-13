@@ -48,52 +48,52 @@ github_username:  shivansh2301
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Shivansh and I'm a Senior Software Engineer. I'm currently working at BigBasket.com where I primarily deal with backend technologies to deliver solutions for the business. I'm adept with various backend technologies and currently gaining teamwork and leadership skills.
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Biryani</mark>
+  Hi, my name's Shivansh and I'm a Senior Software Engineer.  I am presently employed with BigBasket.com, where I use my strong problem-solving skills and creativity to develop innovative technological solutions that cater to business requirements. My proficiency in diverse backend technologies allows me to effectively navigate through the software development processes, and my current focus is on honing my leadership and teamwork skills.
+  I'm most skilled in: <mark>Java</mark>, <mark>Golang</mark>, <mark>AWS</mark> and <mark>Eating Biryani</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: BigBasket.com
-        link: bigbasket.com
-        # link_text: boringcompany.com
+        link: https://www.bigbasket.com
+        link_text: BigBasket.com
         sub_title: Senior Software Engineer
         caption: July 2022 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          India's biggest online grocery store
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Designing low latency, high volume backend for managing warehouse operations, collaborating with cross-functional teams to design and implement technical specifications, and leading junior developers.
       - layout: left
         title: JP Morgan Chase & Co.
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        link: jpmogran.com
+        link_text: https://www.jpmogran.com
+        sub_title: Associate
+        caption: July 2019 - July 2022
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          J.P. Morgan is world's largest bank by market cap.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Developed cloud-native payment processing services, migrated settlement services to Kubernetes cloud with resilience even for chaos monkeys, implemented deep learning solutions for task management.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -103,19 +103,19 @@ content:
         caption: 2015 - 2019
         sub_title: Information Technology
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Established in 1961, Motilal Nehru National Institute of Technology is one of the oldest higher education institution to offer Computer Science programmes in India. It is now ranked among the top NITs in the country.
+        # description: | # this will include new lines to allow paragraphs
+        #   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in software engineering some of my other interests and hobbies are:
       - Gaming
-      - Knitting
+      - Film making
+      - Enjoying music
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
